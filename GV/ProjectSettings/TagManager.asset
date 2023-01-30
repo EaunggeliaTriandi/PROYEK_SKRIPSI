@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - apple
+  - GuideLetter
+  - OrdinarySword
+  - OrdinaryBow
+  - Shoes
+  - Gloves
+  - NPC1
+  - player
+  - RedPillar
+  - BluePillar
+  - GreenPillar
+  - YellowPillar
+  - QCM
+  - PM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MapCollider
+  - Water
+  - UI
+  - Player
+  - MapObj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 727659221
+    locked: 0
+  - name: GroundObj
+    uniqueID: 800125365
+    locked: 0
+  - name: Object
+    uniqueID: 912712949
+    locked: 0
+  - name: UI
+    uniqueID: 1935095011
+    locked: 0

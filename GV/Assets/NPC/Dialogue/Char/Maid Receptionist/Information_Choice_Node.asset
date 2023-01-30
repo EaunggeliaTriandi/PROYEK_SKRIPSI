@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 671ec8150de9b2045803e4dbad4468cc, type: 3}
+  m_Name: Information_Choice_Node
+  m_EditorClassIdentifier: 
+  m_DialogueLine: {fileID: 11400000, guid: 658a2da25f7b03b469f669f6e41b9409, type: 2}
+  m_Choices:
+  - m_ChoicePreview: About Adventure Guild
+    m_ChoiceNode: {fileID: 11400000, guid: 97fe5748987de9e438bfb22458bd0317, type: 2}
+  - m_ChoicePreview: About Azhavan Village
+    m_ChoiceNode: {fileID: 11400000, guid: 5f2eadf286dac8f4ea504e80fa6d3f23, type: 2}
+  - m_ChoicePreview: About You
+    m_ChoiceNode: {fileID: 11400000, guid: ab2925713299f4c4d86cde878a9af3a1, type: 2}
+  - m_ChoicePreview: About Quest
+    m_ChoiceNode: {fileID: 11400000, guid: 426ace3b1515d944c8062057ab751f15, type: 2}
+  - m_ChoicePreview: See Ya...
+    m_ChoiceNode: {fileID: 11400000, guid: 79885b751277ebc469e39a065d47a4bb, type: 2}
